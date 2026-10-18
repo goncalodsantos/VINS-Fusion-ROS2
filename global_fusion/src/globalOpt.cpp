@@ -10,6 +10,7 @@
  *******************************************************/
 
 #include "globalOpt.h"
+#include <ceres/manifold.h>
 #include "Factors.h"
 
 
